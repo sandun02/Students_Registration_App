@@ -1,0 +1,10 @@
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\bin\Debug\MyDataGrid.exe.config
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\bin\Debug\MyDataGrid.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\bin\Debug\MyDataGrid.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\obj\Debug\MyDataGrid.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\obj\Debug\MyDataGrid.Form1.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\obj\Debug\MyDataGrid.Properties.Resources.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\obj\Debug\MyDataGrid.csproj.GenerateResource.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\obj\Debug\MyDataGrid.csproj.CoreCompileInputs.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\obj\Debug\MyDataGrid.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Practical Tutorials\DBMS & C#\MyDataGrid\MyDataGrid\obj\Debug\MyDataGrid.pdb
